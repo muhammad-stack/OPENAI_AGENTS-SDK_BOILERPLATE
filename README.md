@@ -90,3 +90,4 @@ This project requires Python 3.13 or higher and uses the following dependencies:
 
 - openai-agents (version 0.0.4 or higher)
 - python-dotenv (version 1.0.1 or higher)
+- ipynb-kernel (version 6.29.5 or higher)
